@@ -16,16 +16,12 @@
 
 <br/><br/>
 
-<!-- Status Badges -->
+<!-- Status & Telemetry Badges (High Contrast Crisp Theme) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
-  <a href="https://github.com/prageethgihan">
-    <img src="https://img.shields.io/github/followers/prageethgihan?label=Followers&style=for-the-badge&color=00c6ff&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://github.com/prageethgihan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/prageethgihan?label=Stars&style=for-the-badge&color=7F00FF&logo=reverbnation&logoColor=white" alt="Stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=prageethgihan&label=Profile_Views&color=00f2fe&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-059669?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+  <a href="https://github.com/prageethgihan"><img src="https://img.shields.io/github/followers/prageethgihan?label=Followers&style=for-the-badge&color=2563EB&logo=github&logoColor=white" alt="Followers" /></a>
+  <a href="https://github.com/prageethgihan?tab=repositories"><img src="https://img.shields.io/github/stars/prageethgihan?label=Stars&style=for-the-badge&color=D97706&logo=reverbnation&logoColor=white" alt="Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=prageethgihan&label=Profile_Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
