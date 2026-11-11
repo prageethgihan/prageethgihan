@@ -1,12 +1,18 @@
 <div align="center">
 
-# ⚡ Prageeth Gihan
-### 🚀 Full-Stack Developer | QA Automation | ERP & Business Systems
-
-<!-- Dynamic Animated Typing SVG with Cyan / Neon Cyber Glow -->
+<!-- ======================================================== -->
+<!-- ⚡ Futuristic Animated Name & Cyber Motion Header         -->
+<!-- ======================================================== -->
 <a href="https://github.com/prageethgihan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full-Stack+Developer+%7C+QA+Automation+%7C+ERP+%26+Business+Systems;%F0%9F%A7%AA+E2E+Automation%3A+Playwright+%E2%80%A2+Cypress+%E2%80%A2+Postman;%F0%9F%A4%96+AI-Driven+Web+Apps+%26+Computer+Vision+(Gemini+%2B+TF.js);%F0%9F%8E%AE+Interactive+3D+Web+Graphics+(Three.js+%2B+R3F);%F0%9F%9B%A1%EF%B8%8F+Architecting+Bulletproof%2C+Zero-Defect+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%9A%A1+PRAGEETH+GIHAN;%F0%9F%91%8B+HI%2C+I'M+PRAGEETH+GIHAN;%E2%9C%A8+WELCOME+TO+MY+PROFILE" alt="Prageeth Gihan" />
 </a>
+
+<!-- 🚀 Dynamic Subtitle & Roles Animation -->
+<p align="center">
+  <a href="https://github.com/prageethgihan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=00FF88&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+QA+Automation+%7C+ERP+%26+Business+Systems;%F0%9F%A7%AA+E2E+Automation%3A+Playwright+%E2%80%A2+Cypress+%E2%80%A2+Postman;%F0%9F%A4%96+AI-Driven+Web+Apps+%26+Computer+Vision+(Gemini+%2B+TF.js);%F0%9F%8E%AE+Interactive+3D+Web+Graphics+(Three.js+%2B+R3F);%F0%9F%9B%A1%EF%B8%8F+Architecting+Bulletproof%2C+Zero-Defect+Software" alt="Typing Roles" />
+  </a>
+</p>
 
 <br/><br/>
 
