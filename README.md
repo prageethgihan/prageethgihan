@@ -3,11 +3,11 @@
 <!-- ======================================================== -->
 <!-- 🔮 Futuristic Neon Header & Animated Waving Banner        -->
 <!-- ======================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,15,30&height=220&section=header&text=PRAGEETH%20GIHAN&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20QA%20Automation%20Engineer%20(SDET)&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,15,30&height=220&section=header&text=PRAGEETH%20GIHAN&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20QA%20Automation%20%7C%20ERP%20%26%20Business%20Systems&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
 
 <!-- Dynamic Animated Typing SVG with Cyan / Neon Cyber Glow -->
 <a href="https://github.com/prageethgihan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full+Stack+Developer+%26+QA+Automation+Engineer;%F0%9F%A7%AA+E2E+Automation%3A+Playwright+%E2%80%A2+Cypress+%E2%80%A2+Postman+%E2%80%A2+Selenium;%F0%9F%A4%96+AI-Driven+Web+Apps+%26+Computer+Vision+(Gemini+%2B+TF.js);%F0%9F%8E%AE+Interactive+3D+Web+Graphics+(Three.js+%2B+R3F);%F0%9F%9B%A1%EF%B8%8F+Architecting+Bulletproof%2C+Zero-Defect+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full-Stack+Developer+%7C+QA+Automation+%7C+ERP+%26+Business+Systems;%F0%9F%A7%AA+E2E+Automation%3A+Playwright+%E2%80%A2+Cypress+%E2%80%A2+Postman;%F0%9F%A4%96+AI-Driven+Web+Apps+%26+Computer+Vision+(Gemini+%2B+TF.js);%F0%9F%8E%AE+Interactive+3D+Web+Graphics+(Three.js+%2B+R3F);%F0%9F%9B%A1%EF%B8%8F+Architecting+Bulletproof%2C+Zero-Defect+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -47,9 +47,6 @@ I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)
 ### Test Automation Frameworks & E2E Testing
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### API & Performance Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
