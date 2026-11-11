@@ -34,13 +34,16 @@
 
 ## 👨‍💻 About Me & Engineering Philosophy
 
-I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)** dedicated to bridging the gap between innovative feature engineering and ironclad software reliability. With a deep passion for modern web technologies, AI integrations, interactive 3D computing, and automated quality assurance, I specialize in building and delivering bulletproof, high-performance web and desktop systems.
+Results-driven **BSc (Hons) Technology Management undergraduate at NSBM Green University** (2023 – 2026) specializing in **Full-Stack Web Development**, **QA Test Automation**, and **Enterprise ERP & Business Systems**. Proven track record in architecting scalable React and Node.js applications, engineering automated Playwright E2E testing pipelines within GitHub Actions CI/CD, and integrating AI and interactive 3D computing into production-ready software.
 
-- 🔭 **Current Focus:** Engineering **[ProCV Lite](https://github.com/prageethgihan/pro-cv-lite)** — An AI-powered resume builder backed by Google Gemini and a comprehensive **Playwright E2E automation suite**.
-- 🧪 **QA & SDET Expertise:** Designing automated test frameworks (E2E, API, Regression), CI/CD quality gates, and zero-defect deployment pipelines.
-- 🎨 **3D & Creative Computing:** Creating realistic, interactive 3D web visualizations using **Three.js** and **React Three Fiber**.
-- ⚡ **Full-Stack Craft:** Writing clean, scalable code with **React**, **Node.js**, **WebSockets**, and **Docker**.
-- 🎯 **Goal:** Delivering robust, aesthetically captivating, and enterprise-grade software products.
+Beyond software engineering, I am a disciplined **National-Level Athlete (All-Island Gold Medalist)**, bringing athletic resilience, sharp analytical thinking, adaptability, and cross-functional collaboration to engineering teams.
+
+- 🎓 **Education:** BSc (Hons) Technology Management — **NSBM Green University** (2023 – 2026).
+- 🚀 **Flagship Final Project:** **[ProCV Lite](https://github.com/prageethgihan/pro-cv-lite)** — AI-powered resume builder integrating Google Gemini API, on-device TensorFlow.js computer vision, and an automated **Playwright E2E testing suite (17 test cases across auth, security & responsiveness)** integrated with GitHub Actions CI/CD achieving a 100% pass rate.
+- 🧪 **QA & Test Automation:** Specializing in **Playwright** and **Cypress** automated E2E testing, regression suites, route authentication guards, and CI/CD deployment quality gates.
+- 🛋️ **3D Interactive Graphics:** Developed **[FurnishAR](https://github.com/prageethgihan/furniture_web_application)** — Full-stack 3D interior & furniture design studio using **Three.js** and **React Three Fiber** with dynamic studio lighting and procedural 3D customizer.
+- 🎬 **Real-Time Systems:** Built **[CineBook](https://github.com/prageethgihan/CineBook-Site-Project)** — Real-time cinema ticket reservation platform with **Socket.IO** TTL-based seat locking to eliminate concurrent booking conflicts, containerized via **Docker**.
+- 💼 **Enterprise & ERP Experience:** Hands-on experience in business process mapping, ERP operational workflows, and data visibility from industry IT support roles.
 
 ---
 
@@ -149,11 +152,14 @@ I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/prageeth-gihan-3944312b5/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:prageethgihan55@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <a href="https://github.com/prageethgihan" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="GitHub" />
-</a>
-<a href="mailto:prageethgihan@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
