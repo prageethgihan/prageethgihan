@@ -3,7 +3,7 @@
 <!-- ======================================================== -->
 <!-- 🔮 Futuristic Neon Header & Animated Waving Banner        -->
 <!-- ======================================================== -->
-<img src="https://raw.githubusercontent.com/prageethgihan/prageethgihan/main/header.svg" width="100%" alt="Header Banner"/>
+<img src="https://raw.githubusercontent.com/prageethgihan/prageethgihan/main/header.svg?v=2" width="100%" alt="Header Banner"/>
 
 <!-- Dynamic Animated Typing SVG with Cyan / Neon Cyber Glow -->
 <a href="https://github.com/prageethgihan">
@@ -155,6 +155,6 @@ I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)
 <br/><br/>
 
 <!-- Footer Wave -->
-<img src="https://raw.githubusercontent.com/prageethgihan/prageethgihan/main/footer.svg" width="100%" alt="Footer Banner"/>
+<img src="https://raw.githubusercontent.com/prageethgihan/prageethgihan/main/footer.svg?v=2" width="100%" alt="Footer Banner"/>
 
 </div>
