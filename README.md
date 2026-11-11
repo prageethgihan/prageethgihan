@@ -4,7 +4,7 @@
 <!-- ⚡ Futuristic Animated Name & Cyber Motion Header         -->
 <!-- ======================================================== -->
 <a href="https://github.com/prageethgihan">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%9A%A1+PRAGEETH+GIHAN;%F0%9F%91%8B+HI%2C+I'M+PRAGEETH+GIHAN;%E2%9C%A8+WELCOME+TO+MY+PROFILE" alt="Prageeth Gihan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Prageeth+Gihan;%E2%9C%A8+Welcome+to+my+profile" alt="Prageeth Gihan" />
 </a>
 
 <!-- 🚀 Dynamic Subtitle & Roles Animation -->
