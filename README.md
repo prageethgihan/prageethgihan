@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ======================================================== -->
-<!-- 🔮 Futuristic Neon Header & Animated Waving Banner        -->
-<!-- ======================================================== -->
-<img src="https://raw.githubusercontent.com/prageethgihan/prageethgihan/main/header.svg?v=2" width="100%" alt="Header Banner"/>
+# ⚡ Prageeth Gihan
+### 🚀 Full-Stack Developer | QA Automation | ERP & Business Systems
 
 <!-- Dynamic Animated Typing SVG with Cyan / Neon Cyber Glow -->
 <a href="https://github.com/prageethgihan">
@@ -154,7 +152,7 @@ I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)
 
 <br/><br/>
 
-<!-- Footer Wave -->
-<img src="https://raw.githubusercontent.com/prageethgihan/prageethgihan/main/footer.svg?v=2" width="100%" alt="Footer Banner"/>
+<br/>
+⭐️ *Feel free to explore my repositories and star projects you find interesting!*
 
 </div>
