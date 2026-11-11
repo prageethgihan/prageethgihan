@@ -3,7 +3,7 @@
 <!-- ======================================================== -->
 <!-- 🔮 Futuristic Neon Header & Animated Waving Banner        -->
 <!-- ======================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,15,30&height=220&section=header&text=PRAGEETH%20GIHAN&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20QA%20Automation%20%7C%20ERP%20%26%20Business%20Systems&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
+<img src="header.svg" width="100%" alt="Header Banner"/>
 
 <!-- Dynamic Animated Typing SVG with Cyan / Neon Cyber Glow -->
 <a href="https://github.com/prageethgihan">
@@ -124,10 +124,10 @@ I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)
 
 <!-- Futuristic Gradient Stats Cards -->
 <a href="https://github.com/prageethgihan">
-  <img src="https://github-readme-stats.vercel.app/api?username=prageethgihan&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00f2fe&text_color=e2e8f0&icon_color=00ff88&bg_color=0d1117" width="49%" alt="Prageeth's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prageethgihan&show_icons=true&theme=radical&hide_border=true&title_color=00f2fe&text_color=e2e8f0&icon_color=00ff88&bg_color=0d1117" width="49%" alt="Prageeth's GitHub Stats" />
 </a>
 <a href="https://github.com/prageethgihan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prageethgihan&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=e2e8f0&bg_color=0d1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prageethgihan&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=e2e8f0&bg_color=0d1117" width="48%" alt="Top Languages" />
 </a>
 
 <br/><br/>
@@ -135,13 +135,6 @@ I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)
 <!-- Streak Stats with Cyber Radical Theme -->
 <a href="https://github.com/prageethgihan">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prageethgihan&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00FF88&currStreakLabel=00F2FE" width="98%" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<!-- Interactive Activity Graph -->
-<a href="https://github.com/prageethgihan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prageethgihan&theme=radical&area=true&hide_border=true&custom_title=Continuous%20Commit%20%26%20Testing%20Trajectory" width="98%" alt="Activity Graph" />
 </a>
 
 </div>
@@ -162,6 +155,6 @@ I am a multifaceted **Full Stack Developer** and **QA Automation Engineer (SDET)
 <br/><br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,15,30&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<img src="footer.svg" width="100%" alt="Footer Banner"/>
 
 </div>
