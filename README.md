@@ -158,9 +158,6 @@ Beyond software engineering, I am a disciplined **National-Level Athlete (All-Is
 <a href="mailto:prageethgihan55@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/prageethgihan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="GitHub" />
-</a>
 
 <br/><br/>
 
